@@ -8,6 +8,7 @@ set nocompatible
 
 filetype plugin indent on  " Load plugins according to detected filetype.
 syntax on                  " Enable syntax highlighting.
+set nu                     " Numering in the lines 
 
 set autoindent             " Indent according to previous line.
 set expandtab              " Use spaces instead of tabs.
